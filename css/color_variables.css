@@ -1,0 +1,17 @@
+/*** CSS variables ***/
+:root {
+  /* Color from theme setting (this value is updated via JS and is defined here
+     in case JS is disabled). */
+  --color: #00aa00;
+}
+
+a,
+.link {
+  color: var(--color);
+}
+
+input.button-primary,
+button.button-primary {
+  background-color: var(--color);
+  border-color: var(--color);
+}

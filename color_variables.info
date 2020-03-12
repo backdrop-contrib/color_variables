@@ -1,0 +1,10 @@
+name = Color Variables
+description = A theme that demonstrates how to use CSS variables to provide simple color support.
+type = theme
+backdrop = 1.x
+base theme = seven
+
+stylesheets[all][] = css/color_variables.css
+scripts[] = js/color_variables.js
+
+settings[color] = green
