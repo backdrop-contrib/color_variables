@@ -5,6 +5,9 @@ A theme that demonstrates how to use
 [CSS variables](https://css-tricks.com/guides/css-custom-properties/) to provide
 simple color support.
 
+Here's a quick screencast showing it in action:
+https://github.com/backdrop-contrib/color_variables/issues/1#issue-580206036
+
 Installation
 ------------
 
